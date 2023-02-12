@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../LB_C"
+		},
+		{
+			"path": "../LB_Assignment"
+		},
+		{
+			"path": "../PythonML"
+		},
+		{
+			"path": "../PyAssign"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdbool.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}

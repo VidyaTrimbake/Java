@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../LB_Assignment"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdbool.h": "c",
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
