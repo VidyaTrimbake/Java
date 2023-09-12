@@ -1,19 +1,15 @@
 
-class Array
-{
-    public static void main(String arr[]) 
-    {
-        int Arr[] = {10,20,30,40,50};
-        int iMin = Arr[0];
-        System.out.println("Smallest number\n");
 
-        for(int i = 0;i<Arr.length;i++)
-        {
-            if(Arr[i] < iMin)
-            {
-                iMin = Arr[i];
-            }
-        }  
-        System.out.println(iMin);
-    }
+public class Array {
+    public static void main(String a[]){
+
+        
+        int Arr[] = new int[4];
+        Arr[0] = 10;
+        Arr[1] = 20;
+        Arr[2] = 30;
+        Arr[3] = 40;
+
+        System.out.println(Arr[0]);
+    }    
 }
